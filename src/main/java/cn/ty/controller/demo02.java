@@ -6,6 +6,7 @@ public class demo02 {
             System.out.println(i);
 
         }
-        System.out.println("子航6666");
+        System.out.println("子航55");
+        System.out.println("9999");
     }
 }
