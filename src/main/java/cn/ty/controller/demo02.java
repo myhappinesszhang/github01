@@ -7,6 +7,6 @@ public class demo02 {
 
         }
         System.out.println("子航55");
-        System.out.println("9999");
+        System.out.println("77777");
     }
 }
